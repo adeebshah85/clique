@@ -1,0 +1,92 @@
+.firstImg{
+    width: 400px;
+    max-width: 100%;
+    max-height: 100%;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+#title{
+    text-align: left;
+}
+
+.first-heading{
+    margin: auto 0;
+}
+.big-heading{
+    font-family: Helvetica;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.paragraph{
+    font-family: Helvetica;
+    padding-top: 2%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+#contact .paragraph{
+
+    font-size: 1.2rem;
+
+
+}
+.nav-item{
+    font-size: 1.3rem;
+
+}
+.secondImg{
+    width: 300px;
+    max-width: 100%;
+}
+.hr{
+    color:gray;
+    padding-bottom: 50px;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+.anchor:hover{
+    text-decoration: none;
+    color: white;
+}
+.us{
+    margin-top: 50px;
+}
+.contact{
+    margin-top: 100px;
+}
+.foot{
+    text-align: center;
+
+}
+.github{
+    color: grey;
+    text-decoration: none;
+}
+.github:hover{
+    color: grey;
+    text-decoration: none;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #5667ff !important;
+}
+.ficons{
+    color: #5667ff;
+    margin: 0rem 0.6rem;
+}
+.list-group-item-primary{
+    background-color: #5667ff !important;
+    color: white !important;
+}
+.row{
+    padding: 50px 0;
+}
+#footer .container-fluid{
+    padding-bottom: 3px;
+    
+}
+#footer p{
+    padding-top: 1px;
+}
